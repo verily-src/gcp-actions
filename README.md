@@ -1,6 +1,6 @@
 ## Migration
 
-verily-src/gcp-actions is an old public repository and is no longer supported.
+## verily-src/gcp-actions is an old public repository and is no longer supported.
 
 Please use the private repository
 [verily-src/actions-gcp](https://github.com/verily-src/actions-gcp) as
